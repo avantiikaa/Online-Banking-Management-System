@@ -1,0 +1,9 @@
+CREATE DATABASE onlinebank;
+USE onlinebank;
+
+CREATE TABLE users (
+    account_number VARCHAR(20) PRIMARY KEY,
+    name VARCHAR(100),
+    password VARCHAR(100),
+    balance DOUBLE
+);
