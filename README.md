@@ -1,7 +1,5 @@
 # Online-Banking-Management-System
 
-# Online Banking Management System
-
 This is a Java-based Online Banking Management System project developed for educational purposes.
 
 ## 📋 Features
